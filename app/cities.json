@@ -1,0 +1,70 @@
+{
+  "cities": [
+    {
+      "name": "Tokyo Skytree",
+      "rating": "4.4",
+      "desc": "Tokyo Skytree is a broadcasting and observation tower in Sumida, Tokyo. It became the tallest structure in Japan in 2010 and reached its full height of 634.0 metres in March 2011, making it the tallest tower in the world, displacing the Canton Tower, and the second tallest structure in the world after the Burj Khalifa. The tower is the primary television and radio broadcast site for the Kantō region; the older Tokyo Tower no longer gives complete digital terrestrial television broadcasting coverage because it is surrounded by high-rise buildings. Skytree was completed on Leap Day, 29 February 2012, with the tower opening to the public on 22 May 2012.",
+      "img": "https://t2.gstatic.com/images?q=tbn:ANd9GcQq3uKCgxN0V85ajINx9T87il7uHvvneHTBPgTCV0DMb9za3yczpkIEEKNaQ0WOqrVDRDCeUuJI5hv9BA"
+    },
+    {
+      "name": "Sensō-ji",
+      "rating": "4.4",
+      "desc": "Sensō-ji is an ancient Buddhist temple located in Asakusa, Tokyo, Japan. It is Tokyo's oldest temple, and one of its most significant. Formerly associated with the Tendai sect of Buddhism, it became independent after World War II. Adjacent to the temple is a five-story pagoda, the Asakusa Shinto shrine, as well as many shops with traditional goods in the Nakamise-dōri. The Sensoji Kannon temple is dedicated to Kannon Bosatsu, the Bodhisattva of compassion, and is the most widely visited spiritual site in the world with over 30 million visitors annually.",
+      "img": "https://lh4.googleusercontent.com/proxy/VnRnpFqzBaEKHX49fK0uGT5KUqIRMStuA5dyfpmuIaJ8gFubFCNjxe8YgnOrothVDdqUSreQBkZYB6ExlDj0Z18ePhKvSuP6zbv4oWhd3PDRaQar1e4hRB5Vm-_htLSuhNigH6Tw2yTpK4uJP_MEA81gJtBagH05b7TL4W-nd5UG=w592-h404-n-k-no"
+    },
+    {
+      "name": "Imperial Palace",
+      "rating": "4.4",
+      "desc": "The Tokyo Imperial Palace is the primary residence of the Emperor of Japan. It is a large park-like area located in the Chiyoda ward of Tokyo and contains buildings including the main palace, the private residences of the Imperial Family, an archive, museums and administrative offices. It is built on the site of the old Edo Castle. The total area including the gardens is 1.15 square kilometres.",
+      "img": "https://lh3.googleusercontent.com/proxy/2TqpsXzXtT0eid35xt5ORQJCOH6i1Fmmf4X-0Pkccmi97tgytfMgENdRT6rahtvHbcF7tmPkvpGw8UDwFsGl0gimK4GMS3bhPXzKpY9wvHRU6q0U_HEKIXK2ggH2Qnc8ECFDnCxnUcI2L609-TAho-3GYz2l6V1W3g46XstC3m3l=w592-h404-n-k-no"
+    },
+    {
+      "name": "Odaiba",
+      "rating": "4.1",
+      "desc": "Odaiba today is a large artificial island in Tokyo Bay, Japan, across the Rainbow Bridge from central Tokyo. Odaiba was initially built in this area for defensive purposes in the 1850s. The original Odaiba opened in 1860 as a port and shipyard in the city today known as Yokosuka, site of the joint Japanese-US fleet HQ. Reclaimed land offshore Shinagawa was dramatically expanded during the late 20th century as a seaport district, and has developed since the 1990s as a major commercial, residential and leisure area. Odaiba, along with Minato Mirai 21 in Yokohama, is among a few manmade seashores in Tokyo Bay where the waterfront is accessible, and not blocked by industry and harbor areas.",
+      "img": "https://t1.gstatic.com/images?q=tbn:ANd9GcSzzJqCusjRczeJOvHi49UxdWZrdF-hVSXHRuc8hWTx_Ql43kaFUfXBUuf8uUNS2B88AwFL79Bm19OqRA"
+    },
+    {
+      "name": "Meiji Jingu",
+      "rating": "4.6",
+      "desc": "Meiji Shrine, located in Shibuya, Tokyo, is the Shinto shrine that is dedicated to the deified spirits of Emperor Meiji and his wife, Empress Shōken. The shrine does not contain the emperor's grave, which is located at Fushimi-momoyama, south of Kyoto.",
+      "img": "https://t2.gstatic.com/images?q=tbn:ANd9GcTaTa4fWCXky_IFZ0cKEncrKM604vFESTGm2t4rctz8SNRQOowoaGq8YB1tej2VtEqhML6j-ozchIj6AA"
+    },
+    {
+      "name": "Ueno Onshi Park",
+      "rating": "4.3",
+      "desc": "Ueno Park is a spacious public park in the Ueno district of Taitō, Tokyo, Japan. The park was established in 1873 on lands formerly belonging to the temple of Kan'ei-ji. Amongst the country's first public parks, it was founded following the western example as part of the borrowing and assimilation of international practices that characterizes the early Meiji period. The home of a number of major museums, Ueno Park is also celebrated in spring for its cherry blossoms and hanami.",
+      "img": "https://t2.gstatic.com/images?q=tbn:ANd9GcSYLsd-pu1WMx7L6NU2gpIkzdeMjmyFyv4a3FHjRPu7Ectup65AeCM_PjelVFAQhbA7xRwg2Pl-9Y4S_g"
+    },
+    {
+      "name": "Shinjuku Gyoen National Garden",
+      "rating": "4.5",
+      "desc": "Shinjuku Gyo-en is a large park and garden in Shinjuku and Shibuya, Tokyo, Japan. It was originally a residence of the Naitō family in the Edo period. Afterwards, it became a garden under the management of the Imperial Household Agency of Japan.",
+      "img": "https://lh4.googleusercontent.com/proxy/jZ5B4T4D14730CqxYQ2pog5cU2mODYAJ6BmlCswNDp4SBFP7shoSatgGu0AkwfoxLnR8vvDCOAxNIXM9akcpNcwvs_DUYW2ENbXxTj-kNCfh7pdLsFm2Eyceiw63Fq4FWB-2Dtd1ZtjkIgbXK7Op2eWW91zzDAvNzozSangnlvRN=w592-h404-n-k-no"
+    },
+    {
+      "name": "Harajuku",
+      "rating": "3.4",
+      "desc": "Harajuku is a district in Shibuya, Tokyo, Japan. Harajuku is the common name given to a geographic area spreading from Harajuku Station to Omotesando, corresponding on official maps of Shibuya ward as Jingūmae 1 chōme to 4 chōme. In popular reference, Harajuku also encompasses many smaller backstreets such as Takeshita Street and Cat Street spreading from Sendagaya in the north to Shibuya in the south.",
+      "img": "https://t0.gstatic.com/images?q=tbn:ANd9GcQ6E1FF-qAplblKj1Wr5O2kCLzeNsno3f65xDYN0s1IoXV4GA06cUPws8DvYFqSGJsLoROGdVW5vQLZNA"
+    },
+    {
+      "name": "Tokyo Metropolitan Government Building",
+      "rating": "4.4",
+      "desc": "The Tokyo Metropolitan Government Building, also referred to as Tochō for short, houses the headquarters of the Tokyo Metropolitan Government, which governs the special wards, cities, towns and villages that constitutes the whole Tokyo Metropolis. Located in Shinjuku, the building was designed by architect Kenzo Tange. It consists of a complex of three structures, each taking up a city block. The tallest of the three is Tokyo Metropolitan Main building No.1, a tower 48 stories tall that splits into two sections at the 33rd floor. The building also has three levels below ground.",
+      "img": "https://lh3.googleusercontent.com/proxy/8hh1_7mujTqxTlHxovxvBJ2cyBqDkpUYlESCIvJVa_NCtYg4Gq4I0Srt_FjbyW3oH-wW5UvHRQWkGa9GShZL0bHeDn80ntAIhOuzRY59qx2wv4gr54St8mTnbdByttb63HbzGumtM9MToTR4q3pwXJRfdtlR0ClZlUWb3mEhGk8-=w592-h404-n-k-no"
+    },
+    {
+      "name": "Rainbow Bridge",
+      "rating": "4.4",
+      "desc": "The Rainbow Bridge is a suspension bridge crossing northern Tokyo Bay between Shibaura Pier and the Odaiba waterfront development in Minato, Tokyo, Japan. It was built by Kawasaki Heavy Industries, with construction starting in 1987 and completed in 1993. The bridge is 798 metres long with a main span of 580 metres. Officially called the \"Shuto Expressway No. 11 Daiba Route - Port of Tokyo Connector Bridge,\" the name \"'Rainbow Bridge\" was decided by the public.",
+      "img": "https://lh5.googleusercontent.com/proxy/qY7pdi8jaNRgkcxyH36aX8ag4S738jt43dmpf-N8n1VOIDZSGzeUJcFO-QXzeYRyMVScsJcBgbz7GCecKUrdpI8PEjytdEySdqYI2JDznujwL5XidQPNn5SsW-ht5eJPYMUtfRMgBnNo9QMonjkXaR63-vN847XjrCFtDZjMxHZP=w592-h404-n-k-no"
+    },
+    {
+      "name": "Ueno Zoo",
+      "rating": "4.2",
+      "desc": "The Ueno Zoo is a 14.3-hectare zoo, managed by the Tokyo Metropolitan Government, and located in Taitō, Tokyo, Japan. It is Japan's oldest zoo, opening on March 20, 1882. It is a five-minute walk from the Park Exit of Ueno Station, with convenient access from Tokyo's public-transportation network. The Ueno Zoo Monorail, the first monorail in the country, connects the eastern and western parts of the grounds.",
+      "img": "https://lh6.googleusercontent.com/proxy/KcweP-TiMYyzv2sVz4P-P5bqkdWATmb-UZaLXAGXZW-an2ogD-HzxJs5xEPoAttl90TmoAY61M9r_haIf822GzSPi1GmbdJ9M7HmJylepyXvK6pbYJP-Wjd53FkHiz4flL4CPiP793r9UNFIiDC8RZaFVWFMFSPcNmExGBGkDGTl=w592-h404-n-k-no"
+    }
+  ]
+}
